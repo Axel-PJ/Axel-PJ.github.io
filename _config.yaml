@@ -1,7 +1,4 @@
 title: Homelab public documentation
-author:
-  name: Axel PJ
-  
 theme: minima
 minima:
-  skin: auto
+  skin: dark

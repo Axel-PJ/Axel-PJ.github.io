@@ -1,4 +1,6 @@
 title: Homelab public documentation
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
-  skin: dark
+  skin: auto # or auto if you want it to switch with your system settings.

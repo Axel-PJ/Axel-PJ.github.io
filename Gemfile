@@ -7,3 +7,6 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 gem "just-the-docs"        # always download the latest release
 
 gem "jekyll-default-layout"
+gem "jekyll-github-metadata"
+gem "jekyll-include-cache"
+gem "jekyll-sitemap"
